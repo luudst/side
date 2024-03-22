@@ -1,0 +1,2 @@
+# side
+tesnet 3
